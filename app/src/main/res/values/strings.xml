@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyGitApplication2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="splash_fragment_label">Splash Fragment</string>
+    <string name="first_fragment_label">Main Fragment</string>
+    <string name="second_fragment_label">Details Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="label_search">Who you are looking for ?</string>
+    <string name="label_search_add">Please enter 3 or more letter to search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="label_login">Login : </string>
+    <string name="label_id">Id : </string>
+    <string name="label_type">Type : </string>
+
+    <string name="label_hello">Hello,</string>
+    <string name="label_followers">Followers</string>
+    <string name="label_following">Following</string>
+
+    <string name="label_no_result_01">Sorry !!</string>
+    <string name="label_no_result_02">No Results found.</string>
+    <string name="label_no_result_03">You got 0 followers.</string>
+
+</resources>
